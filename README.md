@@ -1,3 +1,3 @@
 # jenkins.job.parametrizado
 
- El job booleano pero alojado en este repositorio
+ parametrizado job booleano pero alojado en este repositorio
